@@ -20,14 +20,11 @@ This repository provides geospatial datasets for the state of Alabama, combining
 
 ## Applications
 
-- Monitoring cropland distribution and change
-- Mapping seasonal wildfire exposure in agricultural areas
-- Supporting crop-fire interaction analysis and environmental planning
-- Providing input for early warning systems and land use models
-- Agricultural productivity and food system monitoring
-- Wildfire risk assessment and climate resilience
-- Environmental hazard mitigation and resource planning
-- Public access to science-based decision support tools
+- Monitoring cropland change and wildfire exposure across time  
+- Supporting crop-fire interaction analysis using remote sensing  
+- Contributing to wildfire risk assessment and agricultural vulnerability mapping  
+- Informing land use planning, disaster preparedness, and hazard mitigation  
+- Advancing public access to decision-support tools based on federal Earth observation data  
 
 ## Relevance to National Interest
 

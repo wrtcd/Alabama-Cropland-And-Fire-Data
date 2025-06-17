@@ -24,14 +24,14 @@ This repository provides geospatial datasets for the state of Alabama, combining
 - Mapping seasonal wildfire exposure in agricultural areas
 - Supporting crop-fire interaction analysis and environmental planning
 - Providing input for early warning systems and land use models
-
-## Relevance to National Interest
-
-This project integrates authoritative data from the USDA and NASA, aligning with national objectives in:
 - Agricultural productivity and food system monitoring
 - Wildfire risk assessment and climate resilience
 - Environmental hazard mitigation and resource planning
 - Public access to science-based decision support tools
+
+## Relevance to National Interest
+
+This project integrates authoritative data from the USDA and NASA, aligning with national objectives in:
 
 ## Download Full Dataset
 

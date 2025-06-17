@@ -18,14 +18,6 @@ This repository provides geospatial datasets for the state of Alabama, combining
 - Temporal Coverage: 2012 to 2024
 - Folder: `viirs-fires/` (placeholder only; data hosted externally)
 
-## Folder Structure
-
-cropland-rasters/  
-├── README.txt (explains external data link)  
-
-viirs-fires/  
-├── README.txt (explains external data link)  
-
 ## Applications
 
 - Monitoring cropland distribution and change
